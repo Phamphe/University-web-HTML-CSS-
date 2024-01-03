@@ -1,3 +1,22 @@
-# University-web-HTML-CSS-
+# University Website Project
 
-In this project a website of a university sharperning up my front end skills. This also included mediaquery and a bit of java.
+## Overview
+
+This project is a custom university website built to showcase my design skills using HTML and CSS.
+
+## Features
+
+- Responsive design for various screen sizes.
+
+
+
+
+## Getting Started
+
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/your-username/university-website.git
+
