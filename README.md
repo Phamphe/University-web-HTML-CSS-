@@ -6,7 +6,7 @@ This project is a custom university website built to showcase my design skills u
 
 ## Features
 
-- Responsive design for various screen sizes.
+- Smooth transition and seemless designs
 
 
 
